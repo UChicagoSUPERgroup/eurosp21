@@ -30,9 +30,9 @@ References:
 [Please include any references that you believe to be helpful for the discussion.]
 ```
 
-Once we see the issue, we will be happy to open any related discussions until everyone reaches an agreement. The team will then apply the changes to the Table and close the issue.
+Once we see the issue, we will be happy to open any related discussions until everyone reaches an agreement. The team will then apply the changes to the table and close the issue.
 
-Please make each issue correspond to a single suggestion.
+Please make each issue correspond to a single suggestion, but it is okay if the suggestion pertains to multiple cells in the table.
 
 ## Addition of New Sensing Methods
 
