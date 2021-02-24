@@ -1,16 +1,16 @@
 # SoK: Context Sensing for Access Control in the Adversarial Home IoT - Supplement Evaluation Table
 
-This repository contains [an online version of the evaluation table (Tables 2-3)](https://docs.google.com/spreadsheets/d/1tcAb3B0-iyIoBK8ioKDfu4XtHkmp4Rwaf8RuKfn0OoY/edit?usp=sharing) in our paper, `SoK: Context Sensing for Access Control in the Adversarial Home IoT` (paper link).
+This repository links to [the online version of the evaluation table (Tables 2-3)](https://docs.google.com/spreadsheets/d/1tcAb3B0-iyIoBK8ioKDfu4XtHkmp4Rwaf8RuKfn0OoY/edit?usp=sharing) in our paper, `SoK: Context Sensing for Access Control in the Adversarial Home IoT` (paper link).
 
 ## Goal
 
-We provide this repository with our evaluation for several sensing methods (also Tables 2-3 in the paper) for the following reasons:
+We provide the online version of our evaluation for our evaluation for several sensing methods (Tables 2-3 in the paper) as well as this repository for the following reasons:
 
-1. This allows us to give a more detailed reasoning for each score we assigned in the evaluations, which was not possible in the paper due to the conference page limit.
+1. The online table allows us to provide more details behind our reasoning for each score in our evaluation. This was not possible in the paper due to the conference page limit.
 2. As we acknowledge in the paper, some scores were based on the teams' own judgement which could be subjective. This repository enables members of the security and sensing research communities to debate any evaluations they disagree with.
 3. In the future, there will likely be more sensing methods relevant to contextual access control than the ones we included in the paper. It is also possible that some relevant sensing methods have escaped the team's literature review. With this repository, we and other researchers can update it with relevant sensing methods as they come up.
 
-By making Tables 2-3 available in this repository, we hope the community can help advance the state of knowledge regarding smart home sensors that enable contextual access control. 
+By making Tables 2-3 available in online and linked to this repository, we hope the community can help advance the state of knowledge regarding smart home sensors that enable contextual access control. 
 
 ## Questions / Suggestions / Requests of Revision
 
